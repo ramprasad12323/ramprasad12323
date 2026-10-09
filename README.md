@@ -1,6 +1,6 @@
 ## Hi, I'm Rampratap
 
-**Python backend, DevOps and AI automation engineer** based in Visakhapatnam, India.
+**Python backend, DevOps and AI automation engineer**
 
 I build Python backends, n8n AI automations and MCP servers that connect Claude and other AI agents to real systems, then ship them with Docker, CI/CD and Kubernetes. Day to day I build and run a distributed trading platform on Kubernetes.
 
