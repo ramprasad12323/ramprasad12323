@@ -10,12 +10,12 @@ I take freelance projects on [Fiverr](https://www.fiverr.com/v_rampratap):
 
 <table>
   <tr>
-    <td><a href="https://www.fiverr.com/v_rampratap/debug-and-improve-the-performance-of-python-applications"><img src="assets/mcp-server.png" width="400" alt="Custom MCP server for Claude and AI agents"></a></td>
-    <td><a href="https://www.fiverr.com/v_rampratap/build-advanced-n8n-and-kestra-workflow-automations-for-your-business"><img src="assets/n8n-ai-agents.png" width="400" alt="n8n automation workflows and AI agents"></a></td>
+    <td><a href="https://www.fiverr.com/v_rampratap/debug-and-improve-the-performance-of-python-applications"><img src="https://raw.githubusercontent.com/ramprasad12323/ramprasad12323/main/assets/mcp-server.png" width="400" alt="Custom MCP server for Claude and AI agents"></a></td>
+    <td><a href="https://www.fiverr.com/v_rampratap/build-advanced-n8n-and-kestra-workflow-automations-for-your-business"><img src="https://raw.githubusercontent.com/ramprasad12323/ramprasad12323/main/assets/n8n-ai-agents.png" width="400" alt="n8n automation workflows and AI agents"></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.fiverr.com/v_rampratap/develop-containerised-python-applications"><img src="assets/fastapi-backend.png" width="400" alt="Python FastAPI backend and REST API with Docker"></a></td>
-    <td><a href="https://www.fiverr.com/v_rampratap/containerize-and-deploy-the-applications-to-cloud-k8s"><img src="assets/kubernetes-deployment.png" width="400" alt="Docker and Kubernetes deployment with CI/CD"></a></td>
+    <td><a href="https://www.fiverr.com/v_rampratap/develop-containerised-python-applications"><img src="https://raw.githubusercontent.com/ramprasad12323/ramprasad12323/main/assets/fastapi-backend.png" width="400" alt="Python FastAPI backend and REST API with Docker"></a></td>
+    <td><a href="https://www.fiverr.com/v_rampratap/containerize-and-deploy-the-applications-to-cloud-k8s"><img src="https://raw.githubusercontent.com/ramprasad12323/ramprasad12323/main/assets/kubernetes-deployment.png" width="400" alt="Docker and Kubernetes deployment with CI/CD"></a></td>
   </tr>
 </table>
 
